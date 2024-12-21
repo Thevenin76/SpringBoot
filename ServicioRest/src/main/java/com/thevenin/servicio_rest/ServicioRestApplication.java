@@ -23,4 +23,9 @@ public class ServicioRestApplication {
 		return "Tenerife: "+LocalDateTime.now();
 	}
 
+	@GetMapping(value="/hola")
+	public String sayHello(){
+		return "Hola Mundo";	
+	}
+
 }
