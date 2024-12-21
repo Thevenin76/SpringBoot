@@ -15,3 +15,10 @@ mvn spring-boot:run
 
 
 http://localhost:8080/api/v1/actual
+
+Ejemplo tomado de https://medium.com/@alexguzrodr/empezando-con-spring-boot-60201931b73b
+Nota: Le faltan los imports:
+
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.GetMapping;
