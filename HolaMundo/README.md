@@ -53,3 +53,17 @@ Resultado:
 [INFO] Total time:  14.476 s
 [INFO] Finished at: 2024-12-21T10:48:18Z
 [INFO] ------------------------------------------------------------------------
+
+# Ejecución desde el JDK con java -jar 
+
+C:\Users\David\Documents\SpringBoot\HolaMundo>java -jar target/hola-mundo-0.0.1-SNAPSHOT.jar
+¡Hola, Mundo desde Spring Boot!
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.1)
